@@ -13,7 +13,7 @@ RUN echo -e "http://nl.alpinelinux.org/alpine/edge/testing\nhttp://dl-cdn.alpine
 	gutenprint-doc \
 	gutenprint-cups \
 	ghostscript \
-	hplip \
+	epson-inkjet-printer-escpr \
 	avahi \
 	inotify-tools \
 	python3 \
